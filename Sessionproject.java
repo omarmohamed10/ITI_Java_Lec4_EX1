@@ -7,6 +7,11 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
+
+
+// Name : Omar Mohamed Abd EL-Hamid
+// Group: G_10
+
 public class Sessionproject {
 
     public static void main(String[] args) {
